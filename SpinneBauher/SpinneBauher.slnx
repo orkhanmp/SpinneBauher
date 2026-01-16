@@ -1,1 +1,8 @@
-<Solution />
+<Solution>
+  <Folder Name="/00.Core/">
+    <Project Path="00.Core/Core/Core.csproj" Id="080855ec-07cb-4bec-9bb7-b4370748be39" />
+  </Folder>
+  <Folder Name="/01.Entities/">
+    <Project Path="01.Entities/Entities/Entities.csproj" Id="358bb968-1e8e-4f80-bede-13bf3f245db2" />
+  </Folder>
+</Solution>
